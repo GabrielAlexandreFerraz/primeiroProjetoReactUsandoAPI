@@ -1,0 +1,88 @@
+.formularioFarmaciaTotal{
+    width: 600px;
+    margin-left: 450px
+}
+.formularioFarmacia{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px #066a75;
+    margin: 20px;
+    padding: 20px;
+}
+.razaoSocial{
+    width: 150px;
+    margin: 3px
+}
+.cnpj{
+    width: 135px;
+    margin: 3px
+}
+.nomeFantasia{
+    width: 134px;
+    margin: 3px
+}
+.email{
+    width: 130px;
+    margin: 3px
+}
+.telefoneFixo{
+    width: 146px;
+    margin: 3px
+}
+.celular{
+    width: 110px;
+    margin: 3px
+}
+.cep{
+    width: 211px;
+    margin: 3px
+}
+.endereco{
+    width: 150px;
+    margin: 3px
+}
+.numero{
+    width: 180px;
+    margin: 3px
+}
+.bairro{
+    margin: 3px
+}
+.cidade{
+    width: 189px;
+    margin: 3px
+}
+.estado{
+    width: 135px;
+    margin: 3px
+}
+.latitude{
+    width: 181px;
+    margin: 3px
+}
+.longitude{
+    width: 135px;
+    margin: 3px
+}
+.linha001,.linha002,.linha003,.linha004,.linha005,.linha006,.linha007{
+    display: flex;
+    justify-content: space-between;
+}
+.divBotoes{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 8px;
+}
+.tagCentro{
+    padding: 10px;
+    text-align: center;
+    color: #2280c9;
+    font-size: 30px;
+}  
+.divInformativaCadastroFarmacia{
+    padding: 10px;
+    text-align: center;
+    color: #2280c9;
+    font-size: 15px;
+}

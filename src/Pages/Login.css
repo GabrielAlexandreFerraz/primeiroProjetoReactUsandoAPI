@@ -1,0 +1,61 @@
+.informativo{
+  font-size: 25px;
+  color: #066a75;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+.formularioTodo{
+  width: 400px;
+  min-height: 560px;    
+  margin: 0px auto;
+  position: relative;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+.formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    flex-direction: column;
+    border: solid 2px #066a75;
+    border-radius: 5px;
+    outline: unset;
+}
+/* .typeNome{
+    margin: 5px;
+    margin-bottom: 20px;
+    padding: 5px;
+    border-radius: 20px;
+} */
+.emailLogin{
+font-size: 18px;
+}
+
+.senha{
+font-size: 18px;
+
+}
+.typeEmail{
+    margin: 10px;
+    width: 250px;
+    height: 25;
+    padding: 8px;
+    border-radius: 8px;
+}
+.typeSenha{
+    margin: 10px;
+    width: 250px;
+    height: 25;
+    padding: 8px;
+    border-radius: 8px;
+}
+.buttao{
+    margin: 20px;
+    margin-top: 40px;
+    padding: 8px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 15px;
+}

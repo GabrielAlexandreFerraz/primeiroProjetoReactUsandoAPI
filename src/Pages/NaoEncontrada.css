@@ -1,0 +1,18 @@
+.error404{
+    background-color: #48bdea;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.linha404{
+    font-size: 150px;
+}
+.errorError{
+    font-size: 60px;
+}
+.paginaNaoEncontrada{
+    margin: 10px;
+}
+.porfavorClik{
+    margin: 10px;
+}

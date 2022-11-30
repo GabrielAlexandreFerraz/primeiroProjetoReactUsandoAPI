@@ -1,0 +1,257 @@
+{
+  "medicamentos": [
+    {
+      "nomeMedicamentos": "aspirina",
+      "precoMedicamentos": "15,00",
+      "dosagemMedicamentos": "501",
+      "tipoMedicamentos": "Anti-inflamatório",
+      "laboratorioMedicamentos": "Bayer",
+      "medicamentosControlados": "Nao",
+      "id": "abc"
+    },
+    {
+      "id": "gfb",
+      "nomeMedicamentos": "acetilcisteina",
+      "dosagemMedicamentos": "20",
+      "precoMedicamentos": "20,00",
+      "tipoMedicamentos": "Expectorante",
+      "medicamentosControlados": "Nao",
+      "laboratorioMedicamentos": "Bayer"
+    },
+    {
+      "precoMedicamentos": "21.00",
+      "id": "HZqt_8S"
+    },
+    {
+      "nomeMedicamentos": "dorflex",
+      "precoMedicamentos": "20.00",
+      "dosagemMedicamentos": "50",
+      "tipoMedicamentos": "antiflamatorio",
+      "laboratorioMedicamentos": "safoni",
+      "medicamentosControlados": "Sim",
+      "id": "oDNaDPO"
+    },
+    {
+      "nomeMedicamentos": "dorflex",
+      "precoMedicamentos": "20.00",
+      "dosagemMedicamentos": "50",
+      "tipoMedicamentos": "antiflamatorio",
+      "laboratorioMedicamentos": "safoni",
+      "medicamentosControlados": "Sim",
+      "id": "8a0hZ5z"
+    },
+    {
+      "nomeMedicamentos": "torsilax",
+      "precoMedicamentos": "88888",
+      "dosagemMedicamentos": "30000",
+      "tipoMedicamentos": "888888888",
+      "laboratorioMedicamentos": "hhhhhh",
+      "id": "lp7dIOU"
+    },
+    {
+      "nomeMedicamentos": "clonazepam",
+      "precoMedicamentos": "999999",
+      "dosagemMedicamentos": "9999999",
+      "tipoMedicamentos": "99999999",
+      "laboratorioMedicamentos": "9999999",
+      "medicamentosControlados": "Nao",
+      "id": "SUIX0Q7"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "n1W32nj"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "cFOtA2J"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "DoW2ayK"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "4Dp8l7k"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "ufqoiRo"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "Go-_hvM"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "2JEi1e4"
+    },
+    {
+      "nomeMedicamentos": "bromazepam",
+      "precoMedicamentos": "666666",
+      "dosagemMedicamentos": "66666666",
+      "tipoMedicamentos": "666666",
+      "laboratorioMedicamentos": "66666666",
+      "medicamentosControlados": "Sim",
+      "id": "_O6BcKs"
+    },
+    {
+      "nomeMedicamentos": "Assert",
+      "precoMedicamentos": "90.99",
+      "dosagemMedicamentos": "50",
+      "tipoMedicamentos": "Ansiolitico",
+      "laboratorioMedicamentos": "Qualquer",
+      "medicamentosControlados": "Nao",
+      "id": "wFfgkmA"
+    },
+    {
+      "nomeMedicamentos": "Fralda",
+      "precoMedicamentos": "78.00",
+      "dosagemMedicamentos": "40000",
+      "tipoMedicamentos": "Fralda",
+      "laboratorioMedicamentos": "Depois",
+      "medicamentosControlados": "Nao",
+      "id": "Idtfj8Q"
+    },
+    {
+      "nomeMedicamentos": "Dorflex",
+      "precoMedicamentos": "10.99",
+      "dosagemMedicamentos": "100",
+      "tipoMedicamentos": "AntiFlamatorio",
+      "laboratorioMedicamentos": "Bayer",
+      "medicamentosControlados": "Sim",
+      "id": "o9gfgSA"
+    },
+    {
+      "nomeMedicamentos": "FRALDA123",
+      "precoMedicamentos": "1111111",
+      "dosagemMedicamentos": "99999",
+      "tipoMedicamentos": "FRALDA123",
+      "laboratorioMedicamentos": "FRALDA123",
+      "medicamentosControlados": "Nao",
+      "id": "b5CIsd_"
+    },
+    {
+      "nomeMedicamentos": "vigamox",
+      "precoMedicamentos": "8888",
+      "dosagemMedicamentos": "5.5",
+      "tipoMedicamentos": "antibiotico",
+      "laboratorioMedicamentos": "novartis",
+      "medicamentosControlados": "Sim",
+      "id": "VyWHgLj"
+    },
+    {
+      "nomeMedicamentos": "gillette",
+      "precoMedicamentos": "9999",
+      "dosagemMedicamentos": "5000",
+      "tipoMedicamentos": "desod",
+      "laboratorioMedicamentos": "gillette",
+      "medicamentosControlados": "Nao",
+      "id": "zIEQN7H"
+    }
+  ],
+  "farmacias": [
+    {
+      "razaoSocial": "Preco Popular",
+      "cnpj": "12345678912345",
+      "nomeFantasia": "Preco Popular",
+      "email": "precopopular@clamed.com",
+      "telefoneFixo": "4733445566",
+      "celular": "47988776655",
+      "cep": "88000111",
+      "endereco": "jose pereira liberato",
+      "numero": "9999",
+      "bairro": "Dom Bosco",
+      "cidade": "Itajai",
+      "estado": "Santa Catarina",
+      "latitude": -26.9071969,
+      "longitute": -48.6835103,
+      "id": "vodVtTU"
+    },
+    {
+      "razaoSocial": "Drogaria Catarinense",
+      "cnpj": "1234567891234",
+      "nomeFantasia": "Drogaria Catarinense",
+      "email": "drogariacatarinense@clamed.com.br",
+      "telefoneFixo": "4733221144",
+      "celular": "47988776699",
+      "cep": "88111333",
+      "endereco": "estefano jose vanolli",
+      "numero": "1234",
+      "bairro": "São Vicente",
+      "cidade": "Itajai",
+      "estado": "Santa Catarina",
+      "latitude": -26.9037372,
+      "longitute": -48.6887149,
+      "id": "4b3FBdy"
+    },
+    {
+      "razaoSocial": "Drogaria Catarinense",
+      "cnpj": "12345678912345",
+      "nomeFantasia": "Drogaria Catarinense",
+      "email": "drogariacatarinense@gmail.com",
+      "telefoneFixo": "4733444444",
+      "celular": "47988778899",
+      "cep": "88309720",
+      "endereco": "vicente candido pereira",
+      "numero": "45141",
+      "bairro": "São Roque",
+      "cidade": "Itajai",
+      "estado": "Santa Catarina",
+      "latitude": -26.9017554,
+      "longitute": -48.7191452,
+      "id": "gdxXBeU"
+    },
+    {
+      "razaoSocial": "TESTE",
+      "cnpj": "1234567891234",
+      "nomeFantasia": "TESTE",
+      "email": "teste.teste@gmail.com",
+      "telefoneFixo": "4733484848",
+      "celular": "47988269449",
+      "cep": "88300600",
+      "endereco": "horacio ramos gonzaga",
+      "numero": "45421454",
+      "bairro": "TESTE",
+      "cidade": "Itajai",
+      "estado": "Santa Catarina",
+      "latitude": -26.8854898,
+      "longitute": -48.7059521,
+      "id": "ohuQy9k"
+    }
+  ]
+}

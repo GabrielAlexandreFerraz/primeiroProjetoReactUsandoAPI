@@ -1,0 +1,81 @@
+/* .fundo{
+    border: solid 30px black;
+    max-width: 1365px;
+    flex-flow: row wrap;
+    overflow-y: scroll; 
+    
+} */
+.cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1px;
+}
+.produto{
+    margin: 20px;
+    border: solid 2px #99FFCC;
+    border-radius: 10px;
+    width: 375px;
+    height: 90px;
+    padding: 15px;
+    background-color: #E0FFFF
+}
+.linha{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+.linhaUm{
+    display: flex;
+    justify-content: space-between;
+}
+.linhaDois{
+    display: flex;
+    justify-content: space-between;
+
+}
+.linhaTres{
+    display: flex;
+    justify-content: space-between;
+
+}
+.tagCentro{
+    padding: 10px;
+    text-align: center;
+    color: #2280c9;
+    font-size: 30px;
+} 
+.divInputsMedicamentos{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #E0FFFF
+}
+.searchMedicamentosUm{
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.editar, .excluir {
+    padding: 2px 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 0.9rem;
+}
+.editar {
+    background-color: #181c52;
+}
+.excluir {
+    background: #ff4f4f;
+}
+.editar a, .excluir a {
+    color: #fff;
+}
+.editar:hover, .excluir:hover {
+    filter: brightness(120%);
+    transition: 0.3s;
+}

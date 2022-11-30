@@ -1,0 +1,44 @@
+.menuTotal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: #99FFCC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.home{
+    border: solid 1px white;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 10px;
+}
+.cadastroFarmacia{
+    border: solid 1px white;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 10px;
+}
+.mapas{
+    border: solid 1px white;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 10px;
+}
+.cadastroMedicamentos{
+    border: solid 1px white;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 10px;
+}
+.medicamentos{
+    border: solid 1px white;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 10px;
+}
+.farmaciaCadastradaBotao{
+    border: solid 1px white;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 10px;
+}

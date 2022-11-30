@@ -1,0 +1,17 @@
+.divDasImg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    gap: 40px;
+    color: #2280c9;
+}
+.exemploDeMapa01{
+    width: 400px;
+}
+.exemploDeMapa02{
+    width: 400px;
+}
+h2{
+    text-align: center;
+}

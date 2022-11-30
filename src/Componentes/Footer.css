@@ -1,0 +1,21 @@
+.footer{
+    background-color: #99FFCC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 1362px;
+    height: 80px;
+}
+.logoFacebook{
+    width: 60px;
+}
+.logoInstagram{
+    width: 60px;
+}
+.logoTwitter{
+    width: 60px;
+}
+.logoYoutube{
+    width: 55px;
+}

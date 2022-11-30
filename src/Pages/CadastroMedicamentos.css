@@ -1,0 +1,72 @@
+.formularioTotalMedicamentos{
+    width: 510px;
+    margin-bottom: 50px;
+    margin-left: 450px
+}
+.formularioMedicamentos{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px #066a75;
+    margin: 20px;
+    padding: 20px;;
+    
+}
+.nomeMedicamentos{
+    width: 100px;
+    margin: 5px;
+    bottom: 5px;
+}
+.precoMedicamentos{
+    width: 50px;
+    margin: 5px;
+    bottom: 5px;
+}
+.dosagemMedicamentos{
+    width: 100px;
+    margin: 5px;
+    bottom: 5px;
+}
+.tipoMedicamentos{
+    width: 100px;
+    margin: 5px;
+    bottom: 5px;
+}
+.laboratorioMedicamentos{
+    width: 100px;
+    margin: 5px;
+    bottom: 5px;
+}
+.descricaoTratamento{
+    margin: 5px;
+    bottom: 5px;
+}
+.select{
+    width: 50px;
+    margin-right: 5px;
+}
+.linhaMedicamentos01{
+    display: flex;
+    justify-content: space-between;
+    margin: 3px;
+}
+.linhaMedicamentos02{
+    display: flex;
+    justify-content: space-between;
+    margin: 3px;
+}
+.linhaMedicamentos03{
+    display: flex;
+    justify-content: space-between;
+    margin: 3px;
+}
+
+.botaoMedicamentos{
+    margin-top: 15px;
+    text-align: center;
+}
+.tagCentro{
+    padding: 10px;
+    text-align: center;
+    color: #2280c9;
+    font-size: 30px;
+}  
