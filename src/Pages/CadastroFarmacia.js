@@ -4,7 +4,7 @@ import Header from '../Componentes/Header'
 import Menu from "../Componentes/Menu";
 import Footer from "../Componentes/Footer";
 
-const token = "pk.eyJ1IjoiZ2FicmllbC1mZXJyYXoiLCJhIjoiY2w4NTI3b2VvMGw3cjNvbWZwYW5jZXM5bCJ9.BdEOJsh3zyZKNPqojZn8nQ"
+const token = "falta a senha token"
 
 export default function CadastroFarmacia() {
 
